@@ -22,7 +22,6 @@ public class Kata
 }
 
 // most clever implicit return
-using System;
 
 public class Kata
 {
@@ -30,7 +29,6 @@ public class Kata
 }
 
 // using concatenation
-using System;
 
 public class Kata
 {
@@ -48,7 +46,6 @@ public class Kata
 
 
 // using string interpolation
-using System;
 
 public class Kata
 {
@@ -65,7 +62,6 @@ public class Kata
 }
 
 // building an entire class
-using System;
 
 public class Kata
 {
@@ -97,8 +93,6 @@ public class Kata
 }
 
 // using .Concat()
-using System;
-using System.Linq;
 
 public class Kata
 {
@@ -109,7 +103,6 @@ public class Kata
 }
 
 // using .Format()
-using System;
 
 public class Kata
 {
