@@ -23,7 +23,7 @@ public class Kata
     }
 
 // implicit return
-using System;
+// using System;
 
 public class Kata
     {
@@ -31,7 +31,7 @@ public class Kata
     }
 
 // multiplying by negative 1 using * -1 
-using System;
+// using System;
 
 public class Kata
     {
@@ -42,7 +42,7 @@ public class Kata
     }
 
 // subtracting the number by itself * 2 
-using System;
+// using System;
 
 public class Kata
     {
@@ -54,8 +54,8 @@ public class Kata
     }
 
 // checking to see if the input contains -
-using System;
-using System.Linq;
+// using System;
+// using System.Linq;
 
 public class Kata
     {
@@ -68,7 +68,7 @@ public class Kata
     }
 
 // if the input is less than 0 return the absolute value else -input
-using System;
+// using System;
 
 public class Kata
     {
@@ -82,7 +82,7 @@ public class Kata
     }
 
 // multiple conditions
-using System;
+// using System;
 
 public class Kata
     {
