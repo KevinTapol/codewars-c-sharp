@@ -29,7 +29,6 @@ namespace Solution
 }
 
 // if else
-using System;
 
 namespace Solution
 {
@@ -51,7 +50,6 @@ namespace Solution
 }
 
 // I'm still learning C# sytanx but this looks like an arrow function in javascript
-using System;
 
 namespace Solution
 {
@@ -62,7 +60,6 @@ namespace Solution
 }
 
 // for loop
-using System;
 
 namespace Solution
 {
